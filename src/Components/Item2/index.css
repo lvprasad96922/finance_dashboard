@@ -1,0 +1,13 @@
+.recharts {
+  border: 1px light black;
+}
+
+.content {
+  /* width: 250px; */
+  /* background-color: #fff; */
+  /* background-color: pink; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

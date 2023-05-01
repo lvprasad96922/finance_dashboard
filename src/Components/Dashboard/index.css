@@ -1,0 +1,40 @@
+.dashboard-container {
+  background-size: cover;
+  min-height: 100vh;
+
+  width: 100%;
+}
+.header {
+  /* position: fixed; */
+  height: 3vh;
+  width: 100%;
+  /* margin-bottom: 40px; */
+}
+.Main-container {
+  background-color: rgb(241, 232, 233);
+  min-height: 100%;
+}
+.recharts-container {
+  height: 179px;
+}
+.container-1{
+  display: flex;
+  flex-wrap: wrap;
+}
+.recharts-container-3{
+  position: relative;
+  bottom: 230px;
+}
+.recharts-container-2{
+   height: 450px;
+}
+
+@media (max-width: 700px) {
+  .container-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+    align-items: center;
+  }
+}

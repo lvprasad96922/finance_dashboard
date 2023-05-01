@@ -1,0 +1,15 @@
+.recharts {
+  border: 1px light black;
+}
+* {
+  box-sizing: content-box;
+}
+
+.content3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
